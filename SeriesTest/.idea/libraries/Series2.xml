@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Series2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Series2/out/artifacts/Series2_jar/Series2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
